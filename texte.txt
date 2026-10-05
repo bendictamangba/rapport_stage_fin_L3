@@ -1,0 +1,36 @@
+
+\newpage
+
+
+
+
+\subsubsection{Demande de visite}
+Le prospect peut soumettre une demande de visite pour un bien qui l'intéresse. 
+Cette demande est ensuite transmise au gérant concerné, qui dispose 
+de la possibilité de la confirmer , de rejeter, de reporter ou encore de refuser.
+
+
+\subsubsection{Soumission du dossier de location}
+Une fois convaincu par un bien, le prospect soumet son dossier de location 
+directement depuis la plateforme. Le système \motcle{IMMOBIZ} calcule 
+automatiquement un score de solvabilité afin d'évaluer la candidature et 
+de faciliter la décision du propriétaire.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{images/dossier-location1.png}
+     \includegraphics[width=\textwidth]{images/dossier-location2.png}
+    \caption{Soumission du dossier de location}
+    \label{fig:prospect-dossier-location}
+\end{figure}
+
+
+Une fois le dossier de location soumis par un prospect, celui-ci doit être traité afin de lui communiquer une réponse. Comme mentionné précédemment, dès la soumission du dossier, un score est automatiquement calculé par la plateforme en fonction de la complétude et de la solidité des pièces fournies, offrant ainsi au gestionnaire un premier indicateur objectif sur la qualité du dossier. Cette prise en charge peut être assurée par un gestionnaire indépendant, une agence immobilière, ou directement par le propriétaire lui-même. Dans le cadre de cette démonstration, nous illustrerons le cas où le propriétaire assure personnellement la gestion de son bien.
+
+\newpage
+
+
+
+
+
+La section "Demandes de Location" affiche sous forme de tableau les dossiers reçus, avec pour chaque prospect ses informations de contact, le bien concerné, le score automatiquement calculé et le statut de sa demande. Le propriétaire peut ainsi consulter, analyser et traiter chaque dossier directement depuis cette interface.
+

@@ -1,0 +1,57 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Remerciements}{2}{chapter*.1}%
+\contentsline {chapter}{Résumé}{4}{chapter*.2}%
+\contentsline {chapter}{Lexique}{5}{chapter*.3}%
+\contentsline {chapter}{Introduction générale}{15}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Présentation du cadre de stage et du contexte de l'étude}{17}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}Présentation de l'entreprise d'accueil}{17}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.2}Mission de l'entreprise}{17}{subsection.1.0.2}%
+\contentsline {subsection}{\numberline {1.0.3}Engagements de l'entreprise}{18}{subsection.1.0.3}%
+\contentsline {subsection}{\numberline {1.0.4}Culture de l'entreprise}{18}{subsection.1.0.4}%
+\contentsline {subsection}{\numberline {1.0.5}Présentation de l'établissement de formation}{20}{subsection.1.0.5}%
+\contentsline {subsection}{\numberline {1.0.6}Contexte du stage}{20}{subsection.1.0.6}%
+\contentsline {subsection}{\numberline {1.0.7}Problématique}{20}{subsection.1.0.7}%
+\contentsline {subsection}{\numberline {1.0.8}Une gestion manuelle source de dysfonctionnements}{20}{subsection.1.0.8}%
+\contentsline {subsection}{\numberline {1.0.9}Un marché exposé à la fraude et à l'insécurité juridique}{21}{subsection.1.0.9}%
+\contentsline {subsection}{\numberline {1.0.10}Des acteurs fragilisés par l'absence de transparence}{21}{subsection.1.0.10}%
+\contentsline {subsection}{\numberline {1.0.11}Des transactions financières encore peu sécurisées}{22}{subsection.1.0.11}%
+\contentsline {subsection}{\numberline {1.0.12}Formulation de la problématique}{22}{subsection.1.0.12}%
+\contentsline {chapter}{\numberline {2}Analyse des besoins et conception de la solution}{23}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Modélisation fonctionnelle}{23}{subsection.2.0.1}%
+\contentsline {subsection}{\numberline {2.0.2}Diagramme de cas d'utilisation (UML)}{23}{subsection.2.0.2}%
+\contentsline {subsection}{\numberline {2.0.3}Cas d'utilisation : Le Prospect}{24}{subsection.2.0.3}%
+\contentsline {subsection}{\numberline {2.0.4}Cas d'utilisation : Le Locataire}{25}{subsection.2.0.4}%
+\contentsline {subsection}{\numberline {2.0.5}Cas d'utilisation : Le Propriétaire et Gestionnaire}{26}{subsection.2.0.5}%
+\contentsline {subsection}{\numberline {2.0.6}Cas d'utilisation : Gérant Immobiz}{28}{subsection.2.0.6}%
+\contentsline {subsection}{\numberline {2.0.7}Diagramme de cas d'utilisation du Technicien}{30}{subsection.2.0.7}%
+\contentsline {subsection}{\numberline {2.0.8}Diagramme de cas d'utilisation de l'Agence Immobilière}{31}{subsection.2.0.8}%
+\contentsline {subsubsection}{d}{32}{subsubsection*.17}%
+\contentsline {subsection}{\numberline {2.0.9}Scénario d'exécution : Soumission de dossier et scoring automatique}{32}{subsection.2.0.9}%
+\contentsline {subsection}{\numberline {2.0.10}Scénario d'exécution : Règlement multi-canal de la caution}{34}{subsection.2.0.10}%
+\contentsline {subsection}{\numberline {2.0.11}Modélisation statique}{36}{subsection.2.0.11}%
+\contentsline {subsection}{\numberline {2.0.12}Diagramme de classes (UML)}{36}{subsection.2.0.12}%
+\contentsline {chapter}{\numberline {3}Réalisation et résultats}{39}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}Présentation générale de la solution}{39}{subsection.3.0.1}%
+\contentsline {subsection}{\numberline {3.0.2}Interface de l'application}{41}{subsection.3.0.2}%
+\contentsline {subsection}{\numberline {3.0.3}Page d'accueil}{41}{subsection.3.0.3}%
+\contentsline {subsubsection}{Fiche détail d'un bien}{43}{subsubsection*.27}%
+\contentsline {subsubsection}{Soumission du dossier de location}{45}{subsubsection*.30}%
+\contentsline {subsection}{\numberline {3.0.4}Interface Prospect}{46}{subsection.3.0.4}%
+\contentsline {subsubsection}{Soumission du dossier de location}{46}{subsubsection*.33}%
+\contentsline {subsection}{\numberline {3.0.5}Authentification}{48}{subsection.3.0.5}%
+\contentsline {subsection}{\numberline {3.0.6}Interface Propriétaire}{50}{subsection.3.0.6}%
+\contentsline {subsubsection}{Calcul du score }{51}{subsubsection*.39}%
+\contentsline {subsubsection}{Traitement d'un dossier de location}{52}{subsubsection*.40}%
+\contentsline {subsection}{\numberline {3.0.7}Interface Locataire}{60}{subsection.3.0.7}%
+\contentsline {subsection}{\numberline {3.0.8}Interface du Gérant de la Plateforme}{67}{subsection.3.0.8}%
+\contentsline {subsection}{\numberline {3.0.9}Interface Technicien}{75}{subsection.3.0.9}%
+\contentsline {subsection}{\numberline {3.0.10}Interface Agence Immobilière}{79}{subsection.3.0.10}%
+\contentsline {subsubsection}{Gestion des gestionnaires}{80}{subsubsection*.84}%
+\contentsline {subsection}{\numberline {3.0.11}Technologies utilisées}{86}{subsection.3.0.11}%
+\contentsline {subsection}{\numberline {3.0.12}Technologies Frontend}{86}{subsection.3.0.12}%
+\contentsline {subsection}{\numberline {3.0.13}Technologies Backend}{87}{subsection.3.0.13}%
+\contentsline {subsection}{\numberline {3.0.14}Stockage des données}{87}{subsection.3.0.14}%
+\contentsline {section}{\numberline {3.1}Outils de développement}{87}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Déploiement}{89}{subsection.3.1.1}%
+\contentsline {chapter}{Conclusion générale}{91}{chapter*.91}%
+\contentsline {chapter}{Références et Webographie}{92}{chapter*.92}%
